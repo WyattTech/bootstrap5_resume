@@ -6,4 +6,4 @@ In this lab, the goal is to recreated the resume that is found in the attached P
 - You might want to checkout these components: Alerts, List Groups, Cards, and Jumbotron.
 - Using col-md as a breakpoint will help make your resume look better in mobile view. You can see what your resume looks like on an mobile screen in your Chrome Developer tools. Here's a screenshot of what it looks like. Toggle that and you can select what type of mobile device you want to emulate.
 
-#### Task attributed to [Covalence](https://gravity.covalence.io/portal)
+#### Task attributed to [Covalence](https://covalence.io/)
